@@ -1,0 +1,17 @@
+### Footprint positions - created on 2026-05-04T21:50:45+0200 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                               PosX       PosY       Rot  Side
+C1        680uF                 CP_Elec_10x12.5                    31.4240    17.7880   90.0000  top
+C2        1uF                   C_1206_3216Metric                  37.5200     9.6600  -90.0000  top
+C3        220uF                 CP_Elec_10x12.5                    74.3500    19.3120   90.0000  top
+D1        RS3A                  D_SMC                              18.8800    17.2800  180.0000  top
+D2        SS34                  D_SMC                              63.8380     8.3900    0.0000  top
+D3        LED                   LED_0805_2012Metric                74.4008     6.1040   90.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_bornier-2_P5.08mm     8.5132    20.5312  -90.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_bornier-2_P5.08mm    88.0152    15.2480   90.0000  top
+L1        33uH                  L_12x12mm_H8mm                     60.3800    20.0740   90.0000  top
+R1        1k                    R_0805_2012Metric                  74.3500    10.1680  -90.0000  top
+U1        LM2596S-5             TO-263-5_TabPin3                   44.8316    18.1228   90.0000  top
+## End
