@@ -1,5 +1,5 @@
-# 5V-DCDC-Buck-Converter
-A simple PCB of a 5V DCDC buck converter with:
+# 5V DC-DC Buck Converter
+A simple PCB of a 5V DC-DC buck converter with:
 - input voltage range of 7V - 40V
 - load current range of 0.2A - 3A
 - 80% efficiency
